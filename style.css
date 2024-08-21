@@ -1,0 +1,15 @@
+
+
+:root{
+    --cor-primaria:red;
+    --cor-secundaria:yellow;
+}
+
+body{
+    height: 100vh;
+}
+
+.active{
+    background: var(--cor-primaria);
+    color:var(--cor-secundaria);
+}
